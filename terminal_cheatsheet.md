@@ -124,4 +124,12 @@ If you forget to write a message and get an error, simply use *:wq* to solve.
 
 `git clone` clones a git repo.
 
-El Fin 🎊
+El Fin... 
+
+Extension
+
+What are .gitignore files?
+
+These are files that are used to ensure that files that are not tracked by Git remain untracked. This is useful when the user wants to ignore files and different file patterns before creating an new repository. It is particularly useful when engaged in large projects
+
+Now we're Finished🎊
